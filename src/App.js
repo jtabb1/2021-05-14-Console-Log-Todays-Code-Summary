@@ -7,6 +7,9 @@ function App() {
   console.log('On the date this app was created, ');
   console.log('I finished the alternative solution to ');
   console.log('the last required lab due this week. ');
+  console.log('');
+  console.log('Also attended and participated in class');
+  console.log(' today.');
 
   return (
     <div className="App">
